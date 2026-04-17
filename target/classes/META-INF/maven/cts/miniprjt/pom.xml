@@ -76,13 +76,7 @@
     <scope>compile</scope>
 </dependency>
 
-<!-- Source: https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
 
-  	<dependency>
-  		<groupId>CTS</groupId>
-  		<artifactId>123</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   </dependencies>
   
 </project>
